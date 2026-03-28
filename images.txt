@@ -7,3 +7,4 @@
 #redis
 #mysql
 #tomcat
+kylin:v10
