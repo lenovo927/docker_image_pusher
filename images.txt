@@ -7,4 +7,4 @@
 #redis
 #mysql
 #tomcat
-kylin:v10
+centos:7
