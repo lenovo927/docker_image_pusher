@@ -7,4 +7,5 @@
 #redis
 #mysql
 #tomcat
-centos:7
+#centos:7
+alpine
