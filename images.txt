@@ -8,4 +8,5 @@
 #mysql
 #tomcat
 #centos:7
-alpine
+#alpine
+wordpress
