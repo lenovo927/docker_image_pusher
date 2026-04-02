@@ -10,4 +10,4 @@
 #centos:7
 #alpine
 #wordpress
-stress
+progrium/stress
